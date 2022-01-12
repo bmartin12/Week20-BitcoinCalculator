@@ -50,6 +50,18 @@ namespace BitcoinCalculator
                 result.Text = $"{btcResult} {resultRates.bpi.USD.code}";
 
             }
+            else if (currencyMenu.SelectedItem.ToString() == "GBP")
+            {
+                resultbi.Visible = true;
+                result.Visible = true;
+
+                BitcoinRate resultRates = GetRates();
+                int userCoins = Int32.Parse(AmountOfBtcn.Text);
+                float currentRate = resultRates.bpi.GBP.rate_float;
+                float btcResult = userCoins * currentRate;
+                result.Text = $"{btcResult} {resultRates.bpi.GBP.code}";
+
+            }
         }
 
         public static BitcoinRate GetRates()

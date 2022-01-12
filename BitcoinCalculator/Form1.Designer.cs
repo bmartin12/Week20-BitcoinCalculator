@@ -41,7 +41,8 @@
             this.currencyMenu.FormattingEnabled = true;
             this.currencyMenu.Items.AddRange(new object[] {
             "EUR",
-            "USD"});
+            "USD",
+            "GBP"});
             this.currencyMenu.Location = new System.Drawing.Point(57, 73);
             this.currencyMenu.Name = "currencyMenu";
             this.currencyMenu.Size = new System.Drawing.Size(121, 23);

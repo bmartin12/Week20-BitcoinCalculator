@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbM513XHiUPgAv0D1wfRbQ0OtF2WX+lhNfKg3Qn68v7JN8P/y0pzjZgR1W4q81ksviA6LChGp4hkTmcQXZUOag==",
+  "dgSpecHash": "tonKiHOjgbWpCdZhhwv/yFJTLWkuZmZCSCzVy6OiS+ZNwWvSk0x2L3ppvcZqeGkitf/i3cKXqgpfV+QSOCEe4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

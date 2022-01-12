@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
         "projectName": "BitcoinCalculator",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\BitcoinCalculator.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\Week20-BitcoinCalculator\\BitcoinCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
